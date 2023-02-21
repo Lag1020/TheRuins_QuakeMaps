@@ -10,6 +10,7 @@ Theming
 The setting of this map is a set of interconnected ruins that resemble a dungeon. This map will have broken walls scattered throughout the locations, acting as cover. With the walls in place, the level would lightly resemble a maze, in which it acts more as tools for strategy, rather than sources of frustration. These spaces will also enforce face to face combat. 
 
 Map Layout
+
 ![MapInProgress](https://user-images.githubusercontent.com/124026838/220483882-88a8d43a-498b-47b7-96df-e0d8627d53a6.png)
 
 Other notes:
